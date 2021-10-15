@@ -7,7 +7,7 @@ In the 5th Semester at SRMIST, we had to make a miniproject on `Embedded systems
 1. [Website](https://www.srmist.edu.in/)
 
 
-![SRM](https://user-images.githubusercontent.com/52783096/122576405-499e7200-d06f-11eb-9504-4b372433be3c.png)
+![wbzKHuoC](https://user-images.githubusercontent.com/52783096/137451312-0161edce-3f8b-46a3-be60-f61f9cbd4d0c.jpg)
 
 ## Problem Statement 🚧
 
@@ -34,19 +34,15 @@ The push buttons can be interfaced by arduino using pull down configuration i.e.
 
 ## Screenshots 📷
 
-### Making of the Model
-
-![Screenshot]()
-
-### Finished Model
-
-![Screenshot]()
-![Screenshot]()
 
 ### Circuit Diagram
 
-![Circuit]()
+<img width="960" alt="circuit arduino mini project" src="https://user-images.githubusercontent.com/52783096/137450950-10ce8e71-0d21-4f8b-beb7-34cc1ac7d91a.PNG">
 
+
+### Simulation
+
+<img width="960" alt="simulated arduino mini project" src="https://user-images.githubusercontent.com/52783096/137451081-df6b8ad6-61db-4dad-b621-7b75418156f8.PNG">
 
 ## Components used 🔧
  - Arduino Uno
