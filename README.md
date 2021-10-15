@@ -21,6 +21,17 @@ Arduino Uno (and other microcontrollers) help to smart-ify simple electrical/ele
 
 In this project, we try to implement a password combination door lock using Arduino Uno. 
 
+## Working 🔨
+
+The project will help us to set combination password and you can set password by using 1-6 digits, When you will push the buttons, and the combination is matched the green LED will be turned on and if the combination is not matched the Red LED will indicate that the password is wrong.
+
+## Interfacing of Push Buttons
+
+The push buttons can be interfaced by arduino using pull down configuration i.e. button will give 5V when pressed and 0V when released and pull up configuration i.e. when button is pressed it will give 0V and when released it will give 5V. We are using pull up configuration and we are not using any external resistor instead we are using arduino internal pull up resistor.
+
+![Screenshot](https://user-images.githubusercontent.com/52783096/137448171-eecbe841-29ef-4eeb-bc6d-3476e269d19b.jpg)
+)
+
 ## Screenshots 📷
 
 ### Making of the Model
